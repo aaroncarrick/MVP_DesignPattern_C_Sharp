@@ -16,6 +16,7 @@ namespace PelletLoyaltyProgram
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            //New model to load
             MessageModel m = new MessageModel();
             Application.Run(new MainFormView(m));
         }
