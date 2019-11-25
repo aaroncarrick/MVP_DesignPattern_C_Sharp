@@ -8,3 +8,13 @@ C:\Users\aaron\Documents\pelletprogram\PelletLoyaltyProgram\PelletLoyaltyProgram
 C:\Users\aaron\Documents\pelletprogram\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.pdb
 C:\Users\aaron\Documents\pelletprogram\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.MainFormView.resources
 C:\Users\aaron\Documents\pelletprogram\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.csprojAssemblyReference.cache
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\bin\Debug\PelletLoyaltyProgram.exe.config
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\bin\Debug\PelletLoyaltyProgram.exe
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\bin\Debug\PelletLoyaltyProgram.pdb
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.csprojAssemblyReference.cache
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.MainFormView.resources
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.Properties.Resources.resources
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.csproj.GenerateResource.cache
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.exe
+C:\Users\aaron\Documents\PLP\PelletLoyaltyProgram\PelletLoyaltyProgram\obj\Debug\PelletLoyaltyProgram.pdb

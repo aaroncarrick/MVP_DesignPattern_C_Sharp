@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Member.cs" />
     <Compile Include="Models\Interfaces\IMessageModel.cs" />
     <Compile Include="Models\MessageModel.cs" />
     <Compile Include="Models\MessageModelEventArgs.cs" />
